@@ -6,4 +6,5 @@ obj/
 
 #ignoring the CodBlock File
 *.cbp
-*.psd
+*.layout
+
